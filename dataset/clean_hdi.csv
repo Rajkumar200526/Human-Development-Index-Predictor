@@ -1,0 +1,263 @@
+Country,HDI,LifeExpectancy,ExpectedSchooling,MeanSchooling,GNI
+Iceland,0.972,82.7,18.9,13.9,69117.0
+Norway,0.97,83.3,18.8,13.1,112710.0
+Switzerland,0.97,84.0,16.7,13.9,81949.0
+Denmark,0.962,81.9,18.7,13.0,76008.0
+Germany,0.959,81.4,17.3,14.3,64053.0
+Sweden,0.959,83.3,19.0,12.7,66102.0
+Australia,0.958,83.9,20.7,12.9,58277.0
+"Hong Kong, China (SAR)",0.955,85.5,16.9,12.4,69436.0
+Netherlands,0.955,82.2,18.6,12.7,68344.0
+Belgium,0.951,82.1,19.0,12.7,63582.0
+Ireland,0.949,82.4,19.2,11.7,90885.0
+Finland,0.948,81.9,19.5,13.0,57068.0
+Singapore,0.946,83.7,16.7,12.0,111239.0
+United Kingdom,0.946,81.3,17.8,13.5,54372.0
+United Arab Emirates,0.94,82.9,15.6,13.0,71142.0
+Canada,0.939,82.6,15.9,13.9,54688.0
+Liechtenstein,0.938,83.6,15.4,12.4,166812.0
+New Zealand,0.938,82.1,19.3,12.9,47260.0
+United States,0.938,79.3,15.9,13.9,73650.0
+Korea (Republic of),0.937,84.3,16.6,12.7,49726.0
+Slovenia,0.931,81.6,17.5,13.0,46361.0
+Austria,0.93,82.0,16.3,12.4,63479.0
+Japan,0.925,84.7,15.5,12.7,47775.0
+Malta,0.924,83.3,15.9,12.4,52155.0
+Luxembourg,0.922,82.2,14.4,12.6,85461.0
+France,0.92,83.3,16.1,11.8,55060.0
+Israel,0.919,82.4,14.9,13.5,48050.0
+Spain,0.918,83.7,17.8,10.8,46008.0
+Czechia,0.915,79.8,16.8,13.0,45889.0
+Italy,0.915,83.7,16.7,10.8,52389.0
+San Marino,0.915,85.7,14.6,11.4,64706.0
+Andorra,0.913,84.0,14.5,11.6,64631.0
+Cyprus,0.913,81.6,16.2,12.6,45394.0
+Greece,0.908,81.9,20.8,11.6,35761.0
+Poland,0.906,78.6,16.7,13.2,42218.0
+Estonia,0.905,79.2,16.0,13.6,40881.0
+Saudi Arabia,0.9,78.7,16.9,11.6,50299.0
+Bahrain,0.899,81.3,15.9,11.1,52819.0
+Lithuania,0.895,76.0,16.5,13.6,41916.0
+Portugal,0.89,82.4,17.5,9.7,41064.0
+Croatia,0.889,78.6,16.3,12.1,41380.0
+Latvia,0.889,76.2,16.5,13.4,37998.0
+Qatar,0.886,82.4,13.1,10.8,105353.0
+Slovakia,0.88,78.3,14.9,13.1,36793.0
+Chile,0.878,81.2,16.9,11.3,28047.0
+Hungary,0.87,77.0,15.5,12.3,37236.0
+Argentina,0.865,77.4,18.8,11.2,25876.0
+Montenegro,0.862,77.1,15.5,12.8,28026.0
+Uruguay,0.862,78.1,17.5,10.5,28650.0
+Oman,0.858,80.0,13.4,11.9,36096.0
+Türkiye,0.853,77.2,19.8,9.0,34507.0
+Kuwait,0.852,80.4,15.9,7.6,56612.0
+Antigua and Barbuda,0.851,77.6,15.5,11.6,27387.0
+Seychelles,0.848,72.9,18.2,11.2,29195.0
+Bulgaria,0.845,75.6,15.3,11.5,32175.0
+Romania,0.845,75.9,14.1,11.6,39374.0
+Georgia,0.844,74.5,16.8,12.7,20753.0
+Saint Kitts and Nevis,0.84,72.1,18.4,10.8,29105.0
+Panama,0.839,79.6,13.3,10.8,34385.0
+Brunei Darussalam,0.837,75.3,13.7,9.3,75827.0
+Kazakhstan,0.837,74.4,14.0,12.5,30989.0
+Costa Rica,0.833,80.8,16.3,8.8,23417.0
+Serbia,0.833,76.8,15.0,11.6,23115.0
+Russian Federation,0.832,73.2,13.2,12.4,39222.0
+Belarus,0.824,74.4,13.7,12.3,26725.0
+Bahamas,0.82,74.6,11.9,12.8,30975.0
+Malaysia,0.819,76.7,12.7,11.1,32553.0
+North Macedonia,0.815,77.4,14.8,10.2,22128.0
+Armenia,0.811,75.7,14.4,11.3,20221.0
+Barbados,0.811,76.2,16.6,9.9,17328.0
+Albania,0.81,79.6,14.5,10.2,17627.0
+Trinidad and Tobago,0.807,73.5,14.2,10.8,27000.0
+Mauritius,0.806,74.9,14.2,10.1,27280.0
+Bosnia and Herzegovina,0.804,77.9,13.2,11.0,19827.0
+High human development,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Iran (Islamic Republic of),0.799,77.7,14.0,10.8,16096.0
+Saint Vincent and the Grenadines,0.798,71.2,16.3,11.3,17247.0
+Thailand,0.798,76.4,15.4,9.0,20570.0
+China,0.797,78.0,15.5,8.0,22029.0
+Peru,0.794,77.7,14.9,10.2,14339.0
+Grenada,0.791,75.2,16.6,9.4,14349.0
+Azerbaijan,0.789,74.4,12.9,11.1,20668.0
+Mexico,0.789,75.1,14.5,9.3,21813.0
+Colombia,0.788,77.7,14.3,9.0,18666.0
+Brazil,0.786,75.8,15.8,8.4,18011.0
+Palau,0.786,69.3,14.1,13.3,16035.0
+Moldova (Republic of),0.785,71.2,14.6,11.8,15867.0
+Ukraine,0.779,73.4,13.3,11.1,16933.0
+Ecuador,0.777,77.4,14.9,9.0,13986.0
+Dominican Republic,0.776,73.7,13.6,9.4,22024.0
+Guyana,0.776,70.2,13.0,8.7,46959.0
+Sri Lanka,0.776,77.5,13.1,10.8,12616.0
+Tonga,0.769,72.9,17.8,10.9,7438.0
+Maldives,0.766,81.0,12.8,7.4,19317.0
+Viet Nam,0.766,74.6,15.5,9.0,13033.0
+Turkmenistan,0.764,70.1,13.2,11.2,17716.0
+Algeria,0.763,76.3,15.5,7.4,15114.0
+Cuba,0.762,78.1,13.9,10.6,8415.0
+Dominica,0.761,71.1,14.2,10.1,16001.0
+Paraguay,0.756,73.8,14.0,8.9,15252.0
+Egypt,0.754,71.6,13.1,10.1,16218.0
+Jordan,0.754,77.8,13.1,10.2,9222.0
+Lebanon,0.752,77.8,11.7,10.4,11299.0
+Saint Lucia,0.748,72.7,12.7,8.6,20900.0
+Mongolia,0.747,71.7,13.6,9.4,14787.0
+Tunisia,0.746,76.5,14.7,7.6,12011.0
+South Africa,0.741,66.1,13.8,11.6,13694.0
+Uzbekistan,0.74,72.4,12.5,11.9,8826.0
+Bolivia (Plurinational State of),0.733,68.6,15.6,10.0,9445.0
+Gabon,0.733,68.3,12.5,9.7,18854.0
+Marshall Islands,0.733,66.9,16.4,11.6,7224.0
+Botswana,0.731,69.2,11.4,10.5,16984.0
+Fiji,0.731,67.3,13.8,10.4,12843.0
+Indonesia,0.728,71.1,13.3,8.7,13700.0
+Suriname,0.722,73.6,11.0,8.4,17344.0
+Belize,0.721,73.6,12.0,8.8,12343.0
+Libya,0.721,69.3,12.9,7.8,19831.0
+Jamaica,0.72,71.5,12.4,10.0,10057.0
+Kyrgyzstan,0.72,71.7,12.7,12.1,6078.0
+Philippines,0.72,69.8,12.8,10.0,10731.0
+Morocco,0.71,75.3,15.1,6.2,8653.0
+Venezuela (Bolivarian Republic of),0.709,72.5,13.0,9.7,7157.0
+Samoa,0.708,71.7,12.4,11.3,5952.0
+Nicaragua,0.706,74.9,11.5,9.9,6881.0
+Nauru,0.703,62.1,12.8,9.4,19642.0
+Medium human development,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Bhutan,0.698,73.0,13.2,5.8,13843.0
+Eswatini (Kingdom of),0.695,64.1,15.2,8.7,9919.0
+Iraq,0.695,72.3,12.4,6.8,12654.0
+Tajikistan,0.691,71.8,10.8,11.3,5747.0
+Tuvalu,0.689,67.1,12.4,10.8,7006.0
+Bangladesh,0.685,74.7,12.3,6.8,8498.0
+India,0.685,72.0,13.0,6.9,9047.0
+El Salvador,0.678,72.1,11.1,7.3,10595.0
+Equatorial Guinea,0.674,63.7,12.5,8.3,12762.0
+"Palestine, State of",0.674,65.2,13.0,10.1,6547.0
+Cabo Verde,0.668,76.1,11.4,6.1,8165.0
+Namibia,0.665,67.4,11.8,7.3,10917.0
+Guatemala,0.662,72.6,10.7,5.8,12459.0
+Congo,0.649,65.8,12.7,8.3,5903.0
+Honduras,0.645,72.9,10.2,7.5,6065.0
+Kiribati,0.644,66.5,11.9,9.1,4947.0
+Sao Tome and Principe,0.637,69.7,12.9,6.0,5583.0
+Timor-Leste,0.634,67.7,13.3,6.2,5435.0
+Ghana,0.628,65.5,11.4,7.1,6846.0
+Kenya,0.628,63.6,11.5,8.6,5608.0
+Nepal,0.622,70.4,13.8,4.5,4726.0
+Vanuatu,0.621,71.5,11.8,7.2,3404.0
+Lao People's Democratic Republic,0.617,69.0,9.6,6.1,8106.0
+Angola,0.616,64.6,12.2,6.0,6631.0
+Micronesia (Federated States of),0.615,67.2,11.5,7.3,4246.0
+Myanmar,0.609,66.9,11.5,6.4,4919.0
+Cambodia,0.606,70.7,11.2,5.2,4931.0
+Comoros,0.603,66.8,13.3,6.0,3481.0
+Zimbabwe,0.598,62.8,11.1,8.9,3511.0
+Zambia,0.595,66.3,11.0,7.4,3447.0
+Cameroon,0.588,63.7,10.8,6.6,4746.0
+Solomon Islands,0.584,70.5,11.3,5.9,2777.0
+Côte d'Ivoire,0.582,61.9,11.4,4.9,6735.0
+Uganda,0.582,68.3,11.6,6.3,2736.0
+Rwanda,0.578,67.8,12.6,4.9,2971.0
+Papua New Guinea,0.576,66.1,11.5,5.0,3971.0
+Togo,0.571,62.7,13.1,5.9,2856.0
+Syrian Arab Republic,0.564,72.1,7.4,5.9,3918.0
+Mauritania,0.563,68.5,7.9,4.9,6267.0
+Nigeria,0.56,54.5,10.5,7.6,5569.0
+Tanzania (United Republic of),0.555,67.0,8.6,6.1,3515.0
+Haiti,0.554,64.9,10.9,5.4,2935.0
+Lesotho,0.55,57.4,11.0,7.7,3029.0
+Low human development,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Pakistan,0.544,67.6,7.9,4.3,5501.0
+Senegal,0.53,68.7,9.1,2.9,4202.0
+Gambia,0.524,65.9,9.0,4.7,2812.0
+Congo (Democratic Republic of the),0.522,61.9,10.9,7.4,1431.0
+Malawi,0.517,67.4,9.9,5.2,1634.0
+Benin,0.515,60.8,10.4,3.2,3806.0
+Guinea-Bissau,0.514,64.1,10.6,3.7,2403.0
+Djibouti,0.513,66.0,6.2,4.0,6368.0
+Sudan,0.511,66.3,8.6,4.0,2810.0
+Liberia,0.51,62.2,10.5,6.2,1538.0
+Eritrea,0.503,68.6,7.3,5.1,2029.0
+Guinea,0.5,60.7,10.4,2.5,3494.0
+Ethiopia,0.497,67.3,9.2,2.4,2796.0
+Afghanistan,0.496,66.0,10.8,2.5,1972.0
+Mozambique,0.493,63.6,10.8,4.6,1356.0
+Madagascar,0.487,63.6,9.1,4.6,1656.0
+Yemen,0.47,69.3,7.5,5.5,1018.0
+Sierra Leone,0.467,61.8,9.1,3.5,1714.0
+Burkina Faso,0.459,61.1,8.7,2.3,2391.0
+Burundi,0.439,63.7,9.8,3.5,859.0
+Mali,0.419,60.4,7.0,1.6,2342.0
+Niger,0.419,61.2,8.3,1.4,1590.0
+Chad,0.416,55.1,8.3,2.3,1748.0
+Central African Republic,0.414,57.4,7.4,4.0,1100.0
+Somalia,0.404,58.8,7.5,1.9,1475.0
+South Sudan,0.388,57.6,5.6,5.7,688.0
+Other countries or territories,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Korea (Democratic People's Rep. of),0.7396826923076922,73.6,12.2,9.106730769230769,24197.048076923078
+Monaco,0.7396826923076922,86.4,21.7,9.106730769230769,24197.048076923078
+Human development groups,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Very high human development,0.914,80.0,16.4,12.5,53014.0
+High human development,0.777,75.7,14.6,8.7,18405.0
+Medium human development,0.656,69.3,12.1,6.8,7822.0
+Low human development,0.515,65.0,8.9,4.0,3007.0
+Developing countries,0.712,72.0,12.7,7.8,13301.0
+Regions,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Arab States,0.719,72.5,12.0,8.1,15825.0
+East Asia and the Pacific,0.775,75.9,14.6,8.3,19520.0
+Europe and Central Asia,0.818,74.8,15.6,10.7,23171.0
+Latin America and the Caribbean,0.783,75.6,14.8,9.1,18048.0
+South Asia,0.672,71.9,12.1,6.8,8722.0
+Sub-Saharan Africa,0.568,62.5,10.3,6.2,4352.0
+Least developed countries,0.56,66.5,10.2,5.1,3637.0
+Small island developing states,0.739,71.9,12.6,8.6,19343.0
+Organisation for Economic Co-operation and Development,0.916,80.6,16.5,12.3,52698.0
+World,0.756,73.4,13.0,8.8,20327.0
+Notes,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+a. Data refer to 2023 or the most recent year available.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+b. Based on countries for which a Human Development Index (HDI) value is calculated.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"c. In calculating the HDI value, expected years of schooling is capped at 18 years.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+d. Updated by HDRO based on data from Barro and Lee (2018) and UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+e. Updated by HDRO based on data from UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"f. In calculating the HDI value, GNI per capita is capped at $75,000.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"g. In calculating the HDI value, life expectancy is capped at 85 years.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+h. Updated by HDRO using the mean years of schooling trend of Austria and data from UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+i. Estimated using the purchasing power parity (PPP) rate and projected growth rate of Switzerland.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+j. Updated by HDRO based on data from Eurostat (2024) and UNESCO Institute for Statistics (2024) .,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+k. Refers to 2015 based on UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"l. HDRO estimate based on data from Robert Barro and Jong-Wha Lee, ICF Macro Demographic and Health Surveys, the Organisation for Economic Co-operation and Development, United Nations Children's Fund (UNICEF) Multiple Indicator Cluster Surveys and the United Nations Educational, Scientific and Cultural Organization (UNESCO) Institute for Statistics. ",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+m. Refers to 2020 based on UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"n. HDRO estimate based on data from the Center for Distributive, Labor and Social Studies and the World Banks Socio-Economic Database for Latin America and the Caribbean, ICF Macro Demographic and Health Surveys, the UNESCO Institute for Statistics and UNICEF Multiple Indicator Cluster Surveys.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+o. Updated by HDRO based on data from UNICEF Multiple Indicator Cluster Surveys for various years and UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+p. Updated by HDRO based on data from UNESCO Institute for Statistics (2024) and estimates using cross-country regression.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+q. Based on HDRO estimates using cross-country regression.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+r. HDRO estimate calculated based on United Nations Statistics Division (2025) and World Bank (2024a).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+s. Refers to 2018 based on UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+t. HDRO estimate based on data from IMF (2024) and World Bank (2024a).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+u. IMF 2024.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+v. Updated by HDRO based on data from UNICEF Multiple Indicator Cluster Surveys for various years.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"w. HDRO estimate based on data from ICF Macro Demographic and Health Surveys, the UNESCO Institute for Statistics  and UNICEF Multiple Indicator Cluster Surveys.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+x. Updated by HDRO based on data from  ICF Macro Demographic and Health Surveys for various years and UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+y. Updated by HDRO based on data from UNICEF Multiple Indicator Cluster Surveys for various years and estimates using cross-country regression.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+z. Refers to 2019 based on UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"aa. HDRO estimate based on data from  IMF (2024), United Nations Statistics Division (2025) and World Bank (2024a).",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+ab. Updated by HDRO based on data from ICF Macro Demographic and Health Surveys for various years.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+ac. Refers to 2017 based on UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+ad. Refers to 2008 based on UNESCO Institute for Statistics (2024).,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Definitions,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"Human Development Index (HDI): A composite index measuring average achievement in three basic dimensions of human developmenta long and healthy life, knowledge and a decent standard of living. See Technical note 1 at https://hdr.undp.org/sites/default/files/2025_HDR/hdr2025_technical_notes.pdf for details on how the HDI is calculated.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Life expectancy at birth: Number of years a newborn infant could expect to live if prevailing patterns of age-specific mortality rates at the time of birth stay the same throughout the infants life.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Expected years of schooling: Number of years of schooling that a child of school entrance age can expect to receive if prevailing patterns of age-specific enrolment rates persist throughout the childs life.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"Mean years of schooling: Average number of years of education received by people ages 25 and older, converted from education attainment levels using official durations of each level.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"Gross national income (GNI) per capita: Aggregate income of an economy generated by its production and its ownership of factors of production, less the incomes paid for the use of factors of production owned by the rest of the world, converted to international dollars using PPP rates, divided by midyear population.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+GNI per capita rank minus HDI rank: Difference in ranking by GNI per capita and by HDI value. A negative value means that the country is better ranked by GNI than by HDI value.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"HDI rank for 2022: Ranking by HDI value for 2022, calculated using the same most recently revised data available that were used to calculate HDI values for 2023.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Main data sources,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"Columns 1 and 7: HDRO calculations based on data from Barro and Lee (2018), IMF (2024), UNDESA (2024a), UNESCO Institute for Statistics (2024), United Nations Statistics Division (2025) and World Bank (2024a).",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Column 2: UNDESA 2024a.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"Column 3: ICF Macro Demographic and Health Surveys, UNESCO Institute for Statistics 2024,  and UNICEF Multiple Indicator Cluster Surveys.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"Column 4: Barro and Lee 2018, Eurostat 2024, ICF Macro Demographic and Health Surveys, UNESCO Institute for Statistics 2024 and UNICEF Multiple Indicator Cluster Surveys.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+"Column 5: IMF 2024, United Nations Statistics Division 2025 and World Bank 2024a.",0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
+Column 6: Calculated based on data in columns 1 and 5.,0.7396826923076922,73.13285714285715,13.581428571428571,9.106730769230769,24197.048076923078
